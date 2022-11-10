@@ -1,2 +1,2 @@
 # image-detection
- a simple image detectiom
+ a image detector using CNN-2D with 3 hidden layers
